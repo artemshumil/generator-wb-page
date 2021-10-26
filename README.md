@@ -1,4 +1,4 @@
-# generator-wb-page [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# generator-wb-page [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 > WB new format page yo generator
 
 ## Installation
