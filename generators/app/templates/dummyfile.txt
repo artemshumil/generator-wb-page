@@ -1,0 +1,6 @@
+<%= page_SentenceCase %>
+<%= saga_CamelCase %>
+<%= saga_KebabCase %>
+<%= state_PascalCase %>
+<%= state_ConstantCase %>
+<%= state_KebabCase %>
